@@ -1,4 +1,4 @@
-
+![logo](https://github.com/maaz20-op/maaz20-op/blob/main/images%20(5).jpeg)
 <h1 align="center">Hi 👋, I'm Maaz Javed</h1>
 <h3 align="center">A Passionate Frontend Web Developer from Pakistan</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width="350" alt="coding">
